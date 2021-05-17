@@ -9,7 +9,7 @@ math \
 matplotlib \
 sympy \
 pandas \
-\
+
 
 open CMD \ 
 git clone https://github.com/msevnctkn/GTU-CE206.git \
