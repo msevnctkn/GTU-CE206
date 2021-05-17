@@ -8,7 +8,7 @@ numpy \
 math \
 matplotlib \
 sympy \
-pandas \
+pandas 
 
 
 open CMD \ 
